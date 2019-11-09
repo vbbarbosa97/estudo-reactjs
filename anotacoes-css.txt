@@ -1,0 +1,7 @@
+CSS
+
+1 - min-height: 100%; //vai fazer com que a pagina ocupe 100% da altura
+2 - -webkit-font-smoothing: antialiased !important; //vai deixar as letras mais bem definidas, o '!important' vai forçar o navegador adicionar
+3 - utilizo o '&' para me referir a um botão por exemplo
+4 - & + li //vai basicamente aplicar o estilo a partir do segundo elemento da lista
+// utilizando o flex: 1 o elemento ocupa todo o espaço e não tenta passar da borda 

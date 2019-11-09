@@ -1,0 +1,18 @@
+React JS
+
+1 - yarn create react-app nome_do_projeto
+2 - excluir o que não vai ser utilizado
+
+/*
+OLHAR A AULA 02 - FASE 03 - MODULO 05 - PARA PODER
+CONFIGURAR O ESLINT, PRETTIER E O EDITORCONFIG
+PARA PADRONIZAR O CÓDIGO
+*/
+
+//ROTAS
+3 - yarn add react-router-dom /* Tabalha com as rotas no front-end */
+4 - yarn add styled-components /* Permite mudar a forma como escreve o css */
+5 - yarn add react-icons /* Pacote de icones */
+6 - yarn add axios /* Lib que permite trabalhar com a API */
+//encodeURIComponent() -> ele transforma a barra em um caracter especial 
+7 - yarn add prop-types //é a parte de validação das props
